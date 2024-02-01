@@ -29,8 +29,8 @@
  .footer_data{
   display: flex; 
   justify-content: space-between;
-  /* flex-direction: column;  */
-  margin-left: 20px; 
+  flex-direction: column; 
+  margin-left: 20px;  
   margin-right: 20px; 
   
   
