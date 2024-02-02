@@ -21,31 +21,28 @@ const Footer = () => {
             <ul>
               <li>Audio Description</li>
               <li>Investor Relations</li>
-              <li>Privacy</li>
-              <li>Contact Us</li>
+              <li>Legal notice</li>
             </ul>
           </div>
           <div>
             <ul>
               <li>Help Center</li>
               <li>Jobs</li>
-              <li>Legal Notices</li>
-              <li>Do Not Sell or Share My Personal<br/> information</li>
+              <li>Cookie Preferences</li>
             </ul>
           </div>
           <div>
             <ul>
               <li>Gift Cards</li>
-              <li>Netflix Shop</li>
-              <li>Cookie Preferences</li>
-              <li>Ad Choices</li>
+              <li>Terms of use</li>
+              <li>Corprate Information</li>
             </ul>
           </div>
           <div>
             <ul>
               <li>Media Center</li>
-              <li>Terms of Use</li>
-              <li>Corpporate Information</li>
+              <li>Privacy</li>
+              <li>Contact Us</li>
             </ul>
           </div>
         </div>
